@@ -1,0 +1,26 @@
+@import 'tailwindcss';
+
+body {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background: black;
+}
+.font-chiron-hei-hk {
+    font-family: "Arial", sans-serif;
+}
+
+.bg-yellow {
+    background: #ffd800;
+}
+
+.text-yellow {
+    color: #ffd800;
+}
+
+.text-blue {
+    color: #0000EE;
+}
+
+.text-red {
+    color: #ff0000;
+}
